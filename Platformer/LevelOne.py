@@ -22,6 +22,7 @@ PLAYER_VEL = 5
 
 sound = pg.mixer.Sound("N:/MyGame/Music Elle3ba.mp3")
 
+print("Hello")
 
 # Font settings
 FONT_NAME = pg.font.match_font('arial')
